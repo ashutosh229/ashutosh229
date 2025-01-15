@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]  
+## 🚀 About Me
+- 🎓 **Education**: B.Tech in Data Science and Artificial Intelligence, IIT Bhilai  
+- 💼 **Roles**: Core Member of GDSC | Content Head at E-Cell | Student Outreach Committee Member  
+- 💻 **Interests**: Artificial Intelligence, Blockchain, Open Source, Full-Stack Development  
 
-<!--
-**ashutosh229/ashutosh229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Skills
+- **Languages**: Python, JavaScript, C++, SQL  
+- **Technologies**: React, Node.js, Flask, Tailwind CSS  
+- **Tools**: Git, Docker, VS Code, Jupyter  
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 🥇 Cleared IIT-JEE Advanced in [Year]  
+- 🎤 Poetry Performer | Editor at GOALS  
+- 🌐 Developed [Project Name](https://github.com/your-username/project-name), a [brief description].  
+
+## 💬 Let's Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 📧 [Email Me](mailto:your-email@example.com)  
+
+---
+
+⭐️ *"Code is poetry, and open source is its voice."*  
