@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm [Ashutosh Kumar Jha]  
 ## 🚀 About Me
 - 🎓 **Education**: B.Tech in Data Science and Artificial Intelligence, IIT Bhilai  
 - 💼 **Roles**: Core Member of GDSC | Content Head at E-Cell | Student Outreach Committee Member  
