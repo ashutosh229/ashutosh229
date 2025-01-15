@@ -62,11 +62,6 @@
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutosh229&theme=radical&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 Achievements
-- 🥇 Cleared IIT-JEE Advanced in [Year]  
-- 🎤 Poetry Performer | Editor at GOALS  
-- 🌐 Developed [Project Name](https://github.com/ashutosh229/project-name), a [brief description].  
-
 ## 💬 Let's Connect
 
 <p align="left">
