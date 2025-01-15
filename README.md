@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm [Ashutosh Kumar Jha]  
+# Hi there! 👋 I'm Ashutosh Kumar Jha 
 ## 🚀 About Me
 - 🎓 **Education**: B.Tech in Data Science and Artificial Intelligence, IIT Bhilai  
-- 💼 **Roles**: Core Member of GDSC | Content Head at E-Cell | Student Outreach Committee Member  
-- 💻 **Interests**: Artificial Intelligence, Blockchain, Open Source, Full-Stack Development  
+- 💼 **Roles**: Core Member of DSAI Club | Core Member of GDG | Core Member of OpenLake 
+- 💻 **Interests**: AI/ML, Open Source, Full-Stack Development
 
 ## 🌟 Skills
-- **Languages**: Python, JavaScript, C++, SQL  
+- **Languages**: Python, JavaScript, C++, SQL
 - **Technologies**: React, Node.js, Flask, Tailwind CSS  
 - **Tools**: Git, Docker, VS Code, Jupyter  
 
