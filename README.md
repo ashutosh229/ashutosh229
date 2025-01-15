@@ -78,4 +78,3 @@
 
 ---
 
-⭐️ *"Code is poetry, and open source is its voice."*
