@@ -72,6 +72,16 @@
   <img src="https://img.shields.io/badge/-DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
   <img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
+<!-- computer science fundamentals -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge&logo=networkx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPs-FF9E0F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-FF4500?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6347?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-8E44AD?style=for-the-badge&logo=architecture&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
