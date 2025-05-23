@@ -95,7 +95,8 @@
   <img src="https://img.shields.io/badge/System%20Design-8E44AD?style=for-the-badge&logo=architecture&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub 
+![Profile views](https://komarev.com/ghpvc/?username=ashutosh229&color=blue&style=flat)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh229&layout=compact&theme=radical) 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh229&theme=dark&hide_border=true)<br/> 
