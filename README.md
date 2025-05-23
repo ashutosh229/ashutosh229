@@ -118,12 +118,10 @@
 ## 💬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-kumar-jha-601098280/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ashutosh_335/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/ashutosh229"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:ashutoshj@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-jha-601098280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kumar-jha-601098280" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ashutosh_335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_335" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ashu_0x0y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu_0x0y" height="30" width="40" /></a>
 </p>
-
 ---
 
 
