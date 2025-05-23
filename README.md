@@ -1,4 +1,4 @@
-[![MasterHead]()](https://github.com/ashutosh229)
+[![MasterHead](https://github.com/ashutosh229/ashutosh229/blob/main/static/mario.gif)](https://github.com/ashutosh229)
 
 # Hi there! 👋 I'm Ashutosh Kumar Jha  
 
