@@ -3,9 +3,12 @@
 # Hi there! 👋 I'm Ashutosh Kumar Jha  
 
 ## 🚀 About Me
-- 🎓 **Education**: B.Tech in Data Science and Artificial Intelligence, IIT Bhilai  
-- 💼 **Roles**: Core Member of GDG | Core Member of OpenLake | Member of DSAI Club  
-- 💻 **Interests**: AI/ML, Open Source, Full-Stack Development  
+- 🎓 I am a pre-final year student pursuing B.Tech in Data Science and Artificial Intelligence @IIT Bhilai    
+- 💻 Ask me anything about Web and App Development, Machine Learning, Deep Learning, Generative AI, RAGs, LLMs, DevOps  
+, MLOps, Data Science, Artificial Intelligence
+<!-- - Have a look at my [portfolio website](https://ask03.vercel.app/) -->
+- 📄 Have a look at my [resume](https://drive.google.com/file/d/11q8DP09mijk0hWxXNisHzlFW4-EP2QHQ/view?usp=sharing)
+- 📫 Reach me at **ashutoshj@iitbhilai.ac.in (akumarjha875@gmail.com)**
 
 ## 🌟 Tech Stack
 <!-- languages -->
