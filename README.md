@@ -97,6 +97,7 @@
 
 ## 📊 Profile 
 ![Profile views](https://komarev.com/ghpvc/?username=ashutosh229&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ashutosh229?label=Follow&style=social)
 
 ## 📊 GitHub 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
