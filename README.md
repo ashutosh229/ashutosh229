@@ -6,7 +6,7 @@
 - 🎓 I am a pre-final year student pursuing B.Tech in Data Science and Artificial Intelligence @IIT Bhilai    
 - 💻 Ask me anything about Web and App Development, Machine Learning, Deep Learning, Generative AI, RAGs, LLMs, DevOps  
 , MLOps, Data Science, Artificial Intelligence
-<!-- - Have a look at my [portfolio website](https://ask03.vercel.app/) -->
+- Have a look at my [portfolio website](https://portfolio-ten-plum-37.vercel.app/)
 - 📄 Have a look at my [resume](https://drive.google.com/file/d/11q8DP09mijk0hWxXNisHzlFW4-EP2QHQ/view?usp=sharing)
 - 📫 Reach me at **ashutoshj@iitbhilai.ac.in (akumarjha875@gmail.com)**
 
@@ -122,6 +122,8 @@
   <a href="https://www.instagram.com/ashutosh_335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_335" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/ashu_0x0y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu_0x0y" height="30" width="40" /></a>
 </p>
+
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 
 
 
