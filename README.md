@@ -7,7 +7,7 @@
 - 💻 Ask me anything about Web and App Development, Machine Learning, Deep Learning, Generative AI, RAGs, LLMs, DevOps  
 , MLOps, Data Science, Artificial Intelligence
 - Have a look at my [portfolio website](https://portfolio-ten-plum-37.vercel.app/)
-- 📄 Have a look at my [resume](https://drive.google.com/file/d/11q8DP09mijk0hWxXNisHzlFW4-EP2QHQ/view?usp=sharing)
+- 📄 Have a look at my [resume](https://drive.google.com/file/d/1kxnjSfWFr3uXQKJKq5ho3vH8DseFxIhE/view?usp=sharing)
 - 📫 Reach me at **ashutoshj@iitbhilai.ac.in (akumarjha875@gmail.com)**
 
 ## 🌟 Tech Stack
