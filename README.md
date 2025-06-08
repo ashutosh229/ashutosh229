@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/ashutosh229/ashutosh229/blob/main/static/mario.gif)](https://github.com/ashutosh229)
 
-# Hi there! 👋 I'm Ashutosh Kumar Jha  
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ashutosh+Kumar+Jha" alt="Typing SVG" />
 
 ## 🚀 About Me
 - 🎓 I am a pre-final year student pursuing B.Tech in Data Science and Artificial Intelligence @IIT Bhilai    
