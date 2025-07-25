@@ -10,7 +10,7 @@
 - 📄 Have a look at my [resume](https://drive.google.com/file/d/1tKiKviChaW_WuucDoqSMNK3JKnPIzaN8/view?usp=sharing)
 - 📫 Reach me at **ashutoshj@iitbhilai.ac.in (akumarjha875@gmail.com)**
 
-## 💼 Experience & Contributions
+<!-- ## 💼 Experience & Contributions
 
 - 🎓 **Application Developer Intern**, IBITF, IIT Bhilai  
 - 🧑‍💻 **Full Stack Web Developer Intern**, Trajectory  
@@ -28,7 +28,7 @@
   - 2nd Place - WebWave Hackathon, 2024
   - FOSS Overflow 2025 - Selected for open-source contribution program 
   - IBITF Fellowship - 6-month Technology Innovation Fellowship under TIH
-  - Inter IIT Tech Meet 13.0 - Represented IIT Bhilai in MP1 (Product Development Problem Statement)
+  - Inter IIT Tech Meet 13.0 - Represented IIT Bhilai in MP1 (Product Development Problem Statement) -->
 
 ## 🌟 Tech Stack
 <!-- languages -->
