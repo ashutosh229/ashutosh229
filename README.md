@@ -10,6 +10,26 @@
 - 📄 Have a look at my [resume](https://drive.google.com/file/d/1tKiKviChaW_WuucDoqSMNK3JKnPIzaN8/view?usp=sharing)
 - 📫 Reach me at **ashutoshj@iitbhilai.ac.in (akumarjha875@gmail.com)**
 
+## 💼 Experience & Contributions
+
+- 🎓 **Application Developer Intern**, IBITF, IIT Bhilai  
+- 🧑‍💻 **Full Stack Web Developer Intern**, Trajectory  
+- 🧑‍💻 **Software Engineering Intern**, Virtual Internships
+- 🧑‍💻 **Full Stack Web Developer Intern**, Mentor Me
+- 🧑‍💻 **Full Stack Web Developer Intern**, CollegeMap
+
+- 💻 **Open Source Contributor**
+  - 🧠 [CCPS Website, IIT Bhilai](https://github.com/OpenLake/Centre-for-Career-Planning-and-Services-Portal)
+  - 🤖 [Smart Insti App, FOSS Overflow](https://github.com/OpenLake/Smart-Insti-App)
+
+- 🏆 **Hackathons & Achievements**
+  - 1st Place – Trustathon, 2025
+  - Pre-finalist – Smart India Hackathon, 2024
+  - 2nd Place - WebWave Hackathon, 2024
+  - FOSS Overflow 2025 - Selected for open-source contribution program 
+  - IBITF Fellowship - 6-month Technology Innovation Fellowship under TIH
+  - Inter IIT Tech Meet 13.0 - Represented IIT Bhilai in MP1 (Product Development Problem Statement)
+
 ## 🌟 Tech Stack
 <!-- languages -->
 <p align="left">
