@@ -115,6 +115,9 @@
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ashutosh229&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📈 GitHub Activity Graph
+[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh229&theme=react-dark)](https://github.com/ashutosh229)
+
 ## 💬 Let's Connect
 
 <p align="left">
@@ -122,6 +125,3 @@
   <a href="https://www.instagram.com/ashutosh_335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_335" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/ashu_0x0y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu_0x0y" height="30" width="40" /></a>
 </p>
-
-
-
