@@ -125,10 +125,52 @@
 ![GitHub followers](https://img.shields.io/github/followers/ashutosh229?label=Follow&style=social)
 
 ## 📊 GitHub 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh229&layout=compact&theme=radical) 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh229&theme=radical&hide_border=true)<br/> 
-![Profile Details Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh229&theme=dark&hide_border=false)
+![Profile Details Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh229&theme=dark&hide_border=false) -->
+
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <!-- Rocket Banner -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/ashutosh229/ashutosh229/blob/main/static/rocket.gif" alt="Banner" width="75%" style="height: auto;" />
+    </td>
+  </tr>
+
+  <!-- GitHub Stats & Top Languages -->
+  <tr>
+    <td align="center" width="50%">
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh229&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- GitHub Streak & Trophies -->
+  
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+          <img src="https://git-hub-streak-stats.vercel.app?user=ashutosh229&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+        </a>
+    </td>
+  </tr>
+
+
+  <!-- Profile Details Graph (unchanged) -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh229&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutosh229&theme=radical&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
