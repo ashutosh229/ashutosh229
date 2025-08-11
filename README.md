@@ -128,6 +128,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh229&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh229&layout=compact&theme=radical) 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh229&theme=radical&hide_border=true)<br/> 
+![Profile Details Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh229&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutosh229&theme=radical&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
