@@ -31,8 +31,82 @@
   - Inter IIT Tech Meet 13.0 - Represented IIT Bhilai in MP1 (Product Development Problem Statement) -->
 
 ## 🌟 Tech Stack
-<!-- languages -->
-<p align="left">
+<table align="center" width="100%" style="max-width: 950px; text-align: center;">
+  <!-- Languages -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Languages</th>
+  </tr>
+  <tr>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/c.svg" height="50" title="C" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" height="50" title="C++" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dart.svg" height="50" title="Dart" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/go.svg" height="50" title="Go" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" height="50" title="Python" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/r.svg" height="50" title="R" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" height="50" title="Rust" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" height="50" title="Java" />
+  </tr>
+
+  <!-- 📱 Software Development -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Software Development</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" height="50" title="Android Studio" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flutter-Light.svg" height="50" title="Flutter" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+  </tr>
+
+  <!-- 🧠 Data Science & Gen AI -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg" height="50" title="PyTorch" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
+  </tr>
+
+  <!-- ⚙️ Backend & Frameworks -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Frameworks</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" height="50" title="Django" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" title="FastAPI" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" title="Bash" /></td>
+  </tr>
+
+  <!-- 🗄️ Databases & Tools -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="50" title="SQLite" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
+  </tr>
+
+</table>
+
+
+
+
+
+<!-- Languages -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -41,7 +115,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p> 
+</p>  -->
+
 <!-- software development -->
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -180,6 +255,14 @@
 
 ## 📈 GitHub Activity Graph
 [![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh229&theme=react-dark)](https://github.com/ashutosh229)
+
+## 🏆 GitRoll Profile Badge
+<div align="center">
+  <a href="https://gitroll.io/profile/uR8YHP7DQdnX4FwQTYAOULe7EhIG3" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uR8YHP7DQdnX4FwQTYAOULe7EhIG3?theme=github-dark&hide_border=true" height="200" alt="GitRoll Profile Badge" />
+  </a>
+</div>
+
 
 ## 💬 Let's Connect
 
