@@ -31,8 +31,8 @@
   - Inter IIT Tech Meet 13.0 - Represented IIT Bhilai in MP1 (Product Development Problem Statement) -->
 
 ## 🌟 Tech Stack
-<table align="center" width="100%" style="max-width: 950px; text-align: center;">
-  <!-- Languages -->
+<!-- <table align="center" width="100%" style="max-width: 950px; text-align: center;">
+  Languages
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Languages</th>
   </tr>
@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" height="50" title="Java" />
   </tr>
 
-  <!-- 📱 Software Development -->
+  📱 Software Development
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Software Development</th>
   </tr>
@@ -60,7 +60,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
   </tr>
 
-  <!-- 🧠 Data Science & Gen AI -->
+  🧠 Data Science & Gen AI
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
   </tr>
@@ -73,7 +73,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
   </tr>
 
-  <!-- ⚙️ Backend & Frameworks -->
+  ⚙️ Backend & Frameworks
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Frameworks</th>
   </tr>
@@ -86,7 +86,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" title="Bash" /></td>
   </tr>
 
-  <!-- 🗄️ Databases & Tools -->
+  🗄️ Databases & Tools
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Tools</th>
   </tr>
@@ -99,14 +99,10 @@
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
   </tr>
 
-</table>
-
-
-
-
+</table> -->
 
 <!-- Languages -->
-<!-- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -115,7 +111,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>  -->
+</p> 
 
 <!-- software development -->
 <p align="left">
