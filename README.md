@@ -101,7 +101,6 @@
 
 </table> -->
 
-## 🧰 Tech Stack
 
 <table align="center" width="100%" style="max-width: 950px; text-align: center;">
 
